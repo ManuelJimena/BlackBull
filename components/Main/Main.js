@@ -9,9 +9,9 @@ export const Main = () => `
       alt="Imagen de hamburguesa"
     />
     <h1 data-aos="fade-up" data-aos-delay="300">Black Bull</h1>
-    <h3 data-aos="fade-up" data-aos-delay="300">
+    <h2 data-aos="fade-up" data-aos-delay="300">
       The gourmet burguers <span>by Javito</span>
-    </h3>
+    </h2>
     <p data-aos="fade-up" data-aos-delay="450">
       Tu cabeza quiere gimnasio... Pero tu corazón quiere hamburguesas!!!
     </p>
