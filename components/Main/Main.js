@@ -8,8 +8,8 @@ export const Main = () => `
       src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494037/BlackBull/burger-baner_pyxahj.png"
       alt="Imagen de hamburguesa"
     />
-    <h1 data-aos="fade-up" data-aos-delay="300">Black Bull</h1>
-    <h3 data-aos="fade-up" data-aos-delay="300">
+    <h1 translate="no" data-aos="fade-up" data-aos-delay="300">Black Bull</h1>
+    <h3 translate="no" data-aos="fade-up" data-aos-delay="300">
       The gourmet burguers <span>by Javito</span>
     </h3>
     <p data-aos="fade-up" data-aos-delay="450">
