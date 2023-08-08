@@ -298,7 +298,7 @@ export const Main = () => `
         </div>
 
         <div class="icons" data-aos="fade-up" data-aos-delay="450">
-          <a href="#" target="_blank">
+          <a href="tel:+34917036113">
             <i class="fas fa-phone"></i>
             <h3>teléfono :</h3>
             <p>91-703-6113</p>
