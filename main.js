@@ -35,6 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
    const disclaimerButton = document.getElementById("disclaimerButton");
    const popup = document.querySelector(".disclaimer-popup");
    const overlay = document.querySelector(".overlay");
+   const closeButton = popup.querySelector(".close-button"); // Agrega una clase a la "x"
  
    disclaimerButton.addEventListener("click", () => {
      popup.style.display = "block";
@@ -44,6 +45,18 @@ document.addEventListener("DOMContentLoaded", () => {
    overlay.addEventListener("click", () => {
      popup.style.display = "none";
      overlay.style.display = "none";
+   });
+ 
+   closeButton.addEventListener("click", () => {
+     popup.style.display = "none";
+     overlay.style.display = "none";
+   });
+ 
+   popup.addEventListener("click", (event) => {
+     if (!event.target.closest(".disclaimer-popup-content")) {
+       popup.style.display = "none";
+       overlay.style.display = "none";
+     }
    });
  });
  

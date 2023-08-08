@@ -33,6 +33,7 @@ export const Footer = () => `
           <p>Si tienes preguntas o inquietudes relacionadas con el contenido de este sitio web, te alentamos a ponerte en contacto con nosotros a través de los medios proporcionados en la sección de contacto. Estamos aquí para brindarte la información que necesitas.</p>
           
           <p>Agradecemos tu interés y esperamos que disfrutes navegando por nuestro sitio web. Recuerda que este aviso legal y descargo de responsabilidad está sujeto a cambios, por lo que te recomendamos revisarlo periódicamente para estar al tanto de cualquier actualización.</p>
+          <span class="close-button">x</span>
         </div>
         <div class="overlay"></div>
       </div>
