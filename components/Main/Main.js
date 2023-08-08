@@ -276,7 +276,7 @@ export const Main = () => `
       class="map"
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1521.4042444683428!2d-3.44156813600311!3d40.3022110135694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd423f0b0e7931d9%3A0xb8857ad35f5d55d5!2sCalle%20Carr.%20de%20Loeches%2C%207%2C%2028500%20Arganda%20del%20Rey%2C%20Madrid!5e0!3m2!1ses!2ses!4v1691433512274!5m2!1ses!2ses"
       allowfullscreen=""
-      loading="lazy"
+      loading="lazy" title="Google maps"
     ></iframe>
 
     <div class="contactar">
