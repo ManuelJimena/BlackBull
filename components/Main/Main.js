@@ -311,7 +311,7 @@ export const Main = () => `
 
 <section class="blogs" id="blogs">
   <div class="heading">
-    <img src="images/title-img.png" alt="" />
+    <img src="images/https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/title-img_bct59n.png" alt="Imagen de adorno" />
     <h3>daily posts</h3>
   </div>
 
