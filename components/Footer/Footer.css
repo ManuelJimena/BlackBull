@@ -1,0 +1,34 @@
+.footer {
+    text-align: center;
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#000));
+    background: linear-gradient(transparent, #000);
+  }
+  
+  .footer .links a {
+    margin: 1rem;
+  }
+  
+  footer .end {
+    margin: 1rem;
+    background-color: var(--grey-color);
+    height: 1px;
+  }
+
+
+  .manueljimena {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: none;
+    color: var(--white-color);
+  }
+  
+  .github img {
+    width: 23px;
+    margin-left: 0.6rem;
+    margin: 1rem;
+  }
