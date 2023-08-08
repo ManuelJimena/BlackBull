@@ -86,7 +86,6 @@
   
   .header .logo img {
     width: 12rem;
-  
   }
   
   .header .search-form {
@@ -135,6 +134,9 @@
     .header .logo {
       transform: translateX(0);
       left: 3rem;
+    }
+    .header .logo img {
+      width: 11.5rem;
     }
     .header #menu-btn {
       display: inline-block;
