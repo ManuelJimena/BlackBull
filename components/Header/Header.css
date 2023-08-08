@@ -41,12 +41,8 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
     gap: 1rem;
   }
   
@@ -85,8 +81,7 @@
     position: absolute;
     top: 0.8rem;
     left: 50.4%;
-    -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
+    transform: translateX(-50%);
   }
   
   .header .logo img {
@@ -101,21 +96,17 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    align-items: center;
     background: var(--black-color);
     position: absolute;
     top: 99%;
     left: 0;
     right: 0;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-            clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
   
   .header .search-form.active {
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
   }
   
   .header .search-form input {
@@ -127,8 +118,7 @@
   }
   
   .header .fa-times {
-    -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
+    transform: rotate(180deg);
   }
 
   @media (max-width: 1200px) {
@@ -139,14 +129,11 @@
 
   @media (max-width: 991px) {
     .header {
-      -webkit-box-pack: end;
-          -ms-flex-pack: end;
-              justify-content: flex-end;
+      justify-content: flex-end;
       gap: 2rem;
     }
     .header .logo {
-      -webkit-transform: translateX(0);
-              transform: translateX(0);
+      transform: translateX(0);
       left: 3rem;
     }
     .header #menu-btn {
@@ -158,12 +145,10 @@
       left: 0;
       right: 0;
       background: var(--black-color);
-      -webkit-clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-              clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+      clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
     .header .navbar.active {
-      -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-              clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     }
     .header .navbar a {
       display: block;

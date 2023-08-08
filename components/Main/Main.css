@@ -55,8 +55,7 @@
   .service {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (minmax(31rem, 1fr))[auto-fit];
-        grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
     gap: 2rem;
   }
   
@@ -94,7 +93,6 @@
   .box-container {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (minmax(31rem, 1fr))[auto-fit];
     grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
     gap: 2rem;
   }
@@ -182,8 +180,7 @@
   .blogs .box-container {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (minmax(31rem, 1fr))[auto-fit];
-        grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(31rem, 1fr));
     gap: 2rem;
   }
   
@@ -192,13 +189,11 @@
   }
   
   .blogs .box-container .box:hover .image img {
-    -webkit-transform: scale(1.1);
-            transform: scale(1.1);
+    transform: scale(1.1);
   }
   
   .blogs .box-container .box:hover .image .icons {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
   }
   
   .blogs .box-container .box .image {
@@ -211,12 +206,8 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    align-items: center;
+    justify-content: space-between;
     padding: 2rem;
     background: var(--black-color);
     position: absolute;
@@ -224,8 +215,7 @@
     left: 0;
     right: 0;
     z-index: 10;
-    -webkit-transform: translateY(10rem);
-            transform: translateY(10rem);
+    transform: translateY(10rem);
   }
   
   .blogs .box-container .box .image .icons a {
@@ -245,8 +235,7 @@
   .blogs .box-container .box .image img {
     height: 100%;
     width: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
   }
   
   .blogs .box-container .box .content {
