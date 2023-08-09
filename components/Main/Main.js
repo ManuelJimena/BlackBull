@@ -282,24 +282,24 @@ export const Main = () => `
         <div class="icons" data-aos="fade-up" data-aos-delay="150">
           <a href="https://www.facebook.com/people/Blackbull-Arganda/100064152609459/" target="_blank">
             <i class="fab fa-facebook-f"></i>
-            <h3>facebook :</h3>
-            <p>facebook.com/Blackbull</p>
+            <h3>facebook</h3>
+            <p>facebook/Blackbull</p>
           </a>
         </div>
 
         <div class="icons" data-aos="fade-up" data-aos-delay="300">
           <a href="https://www.instagram.com/blackbull__arganda/" target="_blank">
             <i class="fab fa-instagram"></i>
-            <h3>instagram :</h3>
-            <p>instagram.com/BlackBull</p>
+            <h3>instagram</h3>
+            <p>instagram/BlackBull</p>
           </a>
         </div>
 
         <div class="icons" data-aos="fade-up" data-aos-delay="450">
           <a href="tel:+34917036113">
             <i class="fas fa-phone"></i>
-            <h3>teléfono :</h3>
-            <p>91-703-6113</p>
+            <h3>teléfono</h3>
+            <p>917-036-113</p>
           </a>
         </div>
       </div>
