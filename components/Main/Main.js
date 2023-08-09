@@ -21,19 +21,17 @@ export const Main = () => `
 <section class="service">
   <div class="box" data-aos="fade-up" data-aos-delay="150">
     <i class="fas fa-hamburger"></i>
-    <h3>best quality</h3>
+    <h3>máxima calidad</h3>
     <p>
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt,
-      cum.
+      Nuestros proveedores 
     </p>
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="300">
     <i class="fas fa-shipping-fast"></i>
-    <h3>free delivery</h3>
+    <h3>servicio a domicilio</h3>
     <p>
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt,
-      cum.
+      Disponemos de servicio a domicilio, para que puedas disfrutar de nuestros productos sin salir de casa.
     </p>
   </div>
 </section>
