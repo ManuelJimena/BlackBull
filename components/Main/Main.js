@@ -23,7 +23,7 @@ export const Main = () => `
     <i class="fas fa-hamburger"></i>
     <h3>máxima calidad</h3>
     <p>
-      Nuestros proveedores 
+    Nuestros productos son de máxima calidad y colaboramos exclusivamente con proveedores que comparten nuestra pasión por la excelencia.
     </p>
   </div>
 
@@ -153,7 +153,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="1750">
+    <div class="box" data-aos="fade-up" data-aos-delay="1700">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691654066/BlackBull/RibJackDaniels_c7dvtb.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Ribs Jack Daniel's</h3>
@@ -164,7 +164,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="2000">
+    <div class="box" data-aos="fade-up" data-aos-delay="1800">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BlackBullX_noa3ko.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Black Bull X</h3>
