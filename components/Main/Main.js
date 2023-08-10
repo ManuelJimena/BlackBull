@@ -43,7 +43,7 @@ export const Main = () => `
   </div>
 
   <div class="box-container">
-    <div class="box" data-aos="fade-up" data-aos-delay="150">
+    <div class="box" data-aos="fade-up" data-aos-delay="100">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/Mac_Cheese_iq5ueg.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Mac&Cheese</h3>
@@ -54,7 +54,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="300">
+    <div class="box" data-aos="fade-up" data-aos-delay="200">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/JucyLucy_japzxe.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Jucy Lucy</h3>
@@ -65,7 +65,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="450">
+    <div class="box" data-aos="fade-up" data-aos-delay="300">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666504/BlackBull/BeefBourbon_zfonke.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Beef Bourbon</h3>
@@ -76,7 +76,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="400">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/CheesePorn_pmggdq.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Cheese Porn</h3>
@@ -87,7 +87,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="500">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BoomBBQ_lbbsuq.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Boom BBQ</h3>
@@ -109,7 +109,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="650">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Mac&Cabra</h3>
@@ -120,7 +120,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="700">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Jucy Lucy Porn</h3>
@@ -131,7 +131,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="750">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Boom Bourbon</h3>
@@ -142,7 +142,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="800">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Crunch Cheesebacon</h3>
@@ -153,7 +153,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="850">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691654066/BlackBull/RibJackDaniels_c7dvtb.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Ribs Jack Daniel's</h3>
@@ -164,7 +164,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
+    <div class="box" data-aos="fade-up" data-aos-delay="900">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BlackBullX_noa3ko.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Black Bull X</h3>
@@ -185,7 +185,7 @@ export const Main = () => `
   </div>
 
   <div class="box-container">
-  <div class="box" data-aos="fade-up" data-aos-delay="150">
+  <div class="box" data-aos="fade-up" data-aos-delay="100">
     <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/OnionRings_vafpw0.png" alt="Imagen de aros de cebolla" />
     <div class="content">
     <h3>Onion Rings</h3>
@@ -196,7 +196,7 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="300">
+  <div class="box" data-aos="fade-up" data-aos-delay="200">
     <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/BravasBlacKBull_j4dxts.png" alt="Imagen de patatas bravas" />
     <div class="content">
     <h3>Bravas Black Bull</h3>
@@ -208,7 +208,7 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="450">
+  <div class="box" data-aos="fade-up" data-aos-delay="300">
     <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/CheedarCrunch_jmfgpz.png" alt="Imagen de queso cheddar rebozado" />
     <div class="content">
     <h3>Cheddar Crunch</h3>
@@ -219,7 +219,7 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="600">
+  <div class="box" data-aos="fade-up" data-aos-delay="400">
     <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/ChikenCrispy_bsfr4y.png" alt="Imagen de pollo rebozado" />
     <div class="content">
     <h3>Chicken Crispy</h3>
@@ -230,7 +230,7 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="600">
+  <div class="box" data-aos="fade-up" data-aos-delay="500">
     <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de sticks de provolone" />
     <div class="content">
     <h3>Sticks Provolone</h3>
@@ -253,7 +253,7 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="600">
+  <div class="box" data-aos="fade-up" data-aos-delay="650">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677324/BlackBull/CroquetasBlackBull_kkiokm.png" alt="Imagen de croquetas" />
   <div class="content">
   <h3>Croquetas Black Bull</h3>
@@ -264,7 +264,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="600">
+<div class="box" data-aos="fade-up" data-aos-delay="700">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/ChiliCheeseFries_imjxeq.png" alt="Imagen de patatas picantes" />
   <div class="content">
   <h3>Chili&Cheese Fries</h3>
@@ -276,7 +276,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="600">
+<div class="box" data-aos="fade-up" data-aos-delay="750">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/Cabramelizada_m4elin.png" alt="Imagen de ensalada" />
   <div class="content">
   <h3>Ensalada Cabramelizada</h3>
@@ -287,7 +287,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="600">
+<div class="box" data-aos="fade-up" data-aos-delay="800">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/AveCesar_j79yiv.png" alt="Imagen de ensalada" />
   <div class="content">
   <h3>Ensalada Ave César</h3>
@@ -298,7 +298,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="600">
+<div class="box" data-aos="fade-up" data-aos-delay="850">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/NachosMonterrey_wif3ku.png" alt="Imagen de nachos" />
   <div class="content">
   <h3>Nachos Monterrey</h3>
@@ -310,7 +310,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="600">
+<div class="box" data-aos="fade-up" data-aos-delay="900">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de quesadillas" />
   <div class="content">
   <h3>Ribsadilla</h3>
@@ -321,7 +321,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="600">
+<div class="box" data-aos="fade-up" data-aos-delay="950">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/ComboBlackBull_nsogmr.png" alt="Imagen de combo de alimentos" />
   <div class="content">
   <h3>Combo Black Bull</h3>
@@ -341,7 +341,7 @@ export const Main = () => `
   </div>
 
   <div class="box-container">
-    <div class="box" data-aos="fade-up" data-aos-delay="150">
+    <div class="box" data-aos="fade-up" data-aos-delay="100">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677379/BlackBull/OreoCheeseCake_oythjn.png" alt="Imagen de tarta" />
       <div class="content">
       <h3>Cheescake oreo</h3>
@@ -352,7 +352,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="300">
+    <div class="box" data-aos="fade-up" data-aos-delay="200">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677381/BlackBull/TartaKinderBueno_igbmsr.png" alt="Imagen de tarta" />
       <div class="content">
       <h3>Tarta de Kinder Bueno</h3>
@@ -363,7 +363,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="450">
+    <div class="box" data-aos="fade-up" data-aos-delay="300">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677379/BlackBull/BlacBullPostreX_duhr35.png" alt="Imagen de tarta" />
       <div class="content">
       <h3>Postre Black Bull X</h3>
@@ -383,7 +383,7 @@ export const Main = () => `
   </div>
 
   <div class="box-container">
-    <div class="box" data-aos="fade-up" data-aos-delay="150">
+    <div class="box" data-aos="fade-up" data-aos-delay="100">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de menú" />
       <div class="content">
       <h3>Menú para dos</h3>
@@ -394,7 +394,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="300">
+    <div class="box" data-aos="fade-up" data-aos-delay="200">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de menú" />
       <div class="content">
       <h3>Menú infantil</h3>
