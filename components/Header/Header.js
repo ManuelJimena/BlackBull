@@ -1,7 +1,7 @@
 import "./Header.css";
 export const Header = () => `
 <div id="menu-btn" class="fas fa-bars icons"></div>
-      <div id="search-btn" class="fas fa-search icons"></div>
+      <div id="null"></div>
 
       <nav class="navbar">
         <a href="#home">inicio</a>
@@ -13,17 +13,7 @@ export const Header = () => `
         <a href="#blogs">blogs</a>
       </nav>
 
-      <a href="#" class="fas fa-shopping-cart icons"></a>
+      <a href="#" class="no-action-link"></a>
 
       <a href="#home" class="logo"><img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494037/BlackBull/logo_cmpk7e.png" alt="Imagen del logo" /></a>
-
-      <form action="" class="search-form">
-        <input
-          type="search"
-          name=""
-          placeholder="buscar aquí..."
-          id="search-box"
-        />
-        <label for="search-box" class="fas fa-search icons"></label>
-      </form>
 `;

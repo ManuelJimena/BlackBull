@@ -5,7 +5,7 @@ export const Main = () => `
     <img
       data-aos="fade-up"
       data-aos-delay="150"
-      src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494037/BlackBull/burger-baner_pyxahj.png"
+      src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691671444/BlackBull/burger-baner_zf9rey.png"
       alt="Imagen de hamburguesa"
     />
     <h1 data-aos="fade-up" data-aos-delay="300">Black Bull</h1>
@@ -44,70 +44,137 @@ export const Main = () => `
 
   <div class="box-container">
     <div class="box" data-aos="fade-up" data-aos-delay="150">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-1_wfu8kq.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/Mac_Cheese_iq5ueg.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Mac&Cheese</h3>
+      <div class="price">10.00€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de vaca de 180g. cubierta por queso cheddar fundido, bacon, mac&cheese al dente con mucho queso y lascas de parmesano en pan brioche.</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="300">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-2_pku6dh.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/JucyLucy_japzxe.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Jucy Lucy</h3>
+      <div class="price">10.00€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de vaca de 180g. rellena de queso cheddar fundido, bacon, pomodoro y guacamole en pan brioche.</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="450">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-3_vgdfyt.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666504/BlackBull/BeefBourbon_zfonke.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Beef Bourbon</h3>
+      <div class="price">10.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de vaca de 180g. con mezclum, cheddar fundido, bacon, onion-rings y salsa Jack Daniel's caseraen en pan brioche.</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="600">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-4_ix6enk.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/CheesePorn_pmggdq.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Cheese Porn</h3>
+      <div class="price">10.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. con mezclum, cheddar fundido, bacon, cheddar crunch y nuestra salsa de cheddar fundida en pan brioche.</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="750">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-5_v3l6pa.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BoomBBQ_lbbsuq.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Boom BBQ</h3>
+      <div class="price">11.00€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. con mezclum, cheddar fundido, huevo, bacon, cebolla crujiente, salsa BBQ y petazetas en pan brioche.</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="900">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494037/BlackBull/about-img_xptjxk.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/CabraLoka_rrdzhv.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Cabra Loka</h3>
+      <div class="price">11.00€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. con mezclum, pomodoro, bacon, cebolla caramelizada, salsa miel&mostaza y queso de cabra caramelizada en pan brioche.</p>
         </details>
       </div>
     </div>
+
+    <div class="box" data-aos="fade-up" data-aos-delay="1050">
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <div class="content">
+      <h3>Mac&Cabra</h3>
+      <div class="price">14.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. con queso cheddar fundido, bacon, mac&cheese al dente con mucho queso, queso de cabra caramelizado, salsa miel&mostaza y cebolla caramelizada en pan brioche.</p>
+        </details>
+      </div>
+    </div>
+
+    <div class="box" data-aos="fade-up" data-aos-delay="1300">
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <div class="content">
+      <h3>Jucy Lucy Porn</h3>
+      <div class="price">14.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. rellena de queso cheddar fundido, guacamole, cheddar fundido, bacon, cheddar crunch y salsa cheddar en pan brioche.</p>
+        </details>
+      </div>
+    </div>
+
+    <div class="box" data-aos="fade-up" data-aos-delay="1450">
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <div class="content">
+      <h3>Boom Bourbon</h3>
+      <div class="price">14.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. con mezclum, guacamole, cheddar fundido, bacon crispy, huevo, onion-rings, salsa bourbon de tennese y petazetas en pan brioche.</p>
+        </details>
+      </div>
+    </div>
+
+    <div class="box" data-aos="fade-up" data-aos-delay="1600">
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <div class="content">
+      <h3>Crunch Cheesebacon</h3>
+      <div class="price">14.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. doble de cheddar fundido, doble de bacon, confitura de bacon casera, salsa bourbon y nuestro pan crujiente de provolone fundido.</p>
+        </details>
+      </div>
+    </div>
+
+    <div class="box" data-aos="fade-up" data-aos-delay="1750">
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691654066/BlackBull/RibJackDaniels_c7dvtb.png" alt="Imagen de hamburguesa" />
+      <div class="content">
+      <h3>Ribs Jack Daniel's</h3>
+      <div class="price">14.50€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Disco de carne de 180 g. con extra de carne de costilla de cerdo ibérico cocinada a baja temperatura con salsa Jack Daniel's casera, doble de cheddar fundido, bacon, salsa BBQ y cebolla crujiente en pan brioche.</p>
+        </details>
+      </div>
+    </div>
+
+    <div class="box" data-aos="fade-up" data-aos-delay="2000">
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BlackBullX_noa3ko.png" alt="Imagen de hamburguesa" />
+      <div class="content">
+      <h3>Black Bull X</h3>
+      <div class="price">???€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Pregunta en nuestro establecimiento o consulta nuestras redes sociales para descubrir la hamburguesa del mes.</p>
+        </details>
+      </div>
+    </div>
+
   </div>
 </section>
 
