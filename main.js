@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
    const disclaimerButton = document.getElementById("disclaimerButton");
    const popup = document.querySelector(".disclaimer-popup");
    const overlay = document.querySelector(".overlay");
-   const closeButton = popup.querySelector(".close-button"); // Agrega una clase a la "x"
+   const closeButton = popup.querySelector(".close-button");
  
    disclaimerButton.addEventListener("click", () => {
      popup.style.display = "block";

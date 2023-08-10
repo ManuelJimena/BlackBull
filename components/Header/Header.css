@@ -87,38 +87,6 @@
   .header .logo img {
     width: 12rem;
   }
-  
-  .header .search-form {
-    height: 7rem;
-    padding: 0 2rem;
-    border-top: 0.2rem solid rgba(255, 255, 255, 0.3);
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    align-items: center;
-    background: var(--black-color);
-    position: absolute;
-    top: 99%;
-    left: 0;
-    right: 0;
-    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-  }
-  
-  .header .search-form.active {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-  }
-  
-  .header .search-form input {
-    width: 100%;
-    background: none;
-    text-transform: none;
-    font-size: 1.6rem;
-    color: var(--white-color);
-  }
-  
-  .header .fa-times {
-    transform: rotate(180deg);
-  }
 
   @media (max-width: 1200px) {
     .header {
@@ -157,6 +125,12 @@
       margin: 3rem 2rem;
     }
     .header .navbar .space {
+      display: none;
+    }
+    .no-action-link {
+      display: none;
+    }
+    .nothing {
       display: none;
     }
   }

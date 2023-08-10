@@ -5,8 +5,8 @@ export const Footer = () => `
         <a href="#menu" class="btn">burguers</a>
         <a href="#entrantes" class="btn">entrantes</a>
         <a href="#postres" class="btn">postres</a>
+        <a href="#menús" class="btn">menús</a>
         <a href="#contact" class="btn">contacto</a>
-        <a href="#blogs" class="btn">blogs</a>
         <div class="disclaimer">
         <button id="disclaimerButton" class="btn disclaimer-btn">Aviso Legal</button>
         <div class="disclaimer-popup" id="disclaimerPopup">
