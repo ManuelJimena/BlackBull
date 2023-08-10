@@ -5,7 +5,7 @@ export const Main = () => `
     <img
       data-aos="fade-up"
       data-aos-delay="150"
-      src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691671444/BlackBull/burger-baner_zf9rey.png"
+      src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691708972/burger-baner_zf9rey_gva69o.webp"
       alt="Imagen de hamburguesa"
     />
     <h1 data-aos="fade-up" data-aos-delay="300">Black Bull</h1>
