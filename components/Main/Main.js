@@ -203,7 +203,7 @@ export const Main = () => `
     <div class="price">6.50€</div>
       <details class="btn"><summary>Saber más</summary>
       <p>Crujientes bastones de patata especiados con nuestra salsa brava de chipotles ahumados.</p>
-      <p>🌶🌶</p>
+      <p>🔥🔥</p>
       </details>
     </div>
   </div>
@@ -248,7 +248,7 @@ export const Main = () => `
     <div class="price">8.00€</div>
       <details class="btn"><summary>Saber más</summary>
       <p>Crujientes alitas de pollo marinadas con salsa de habanero.</p>
-      <p>🌶🌶</p>
+      <p>🔥🔥</p>
       </details>
     </div>
   </div>
@@ -271,7 +271,7 @@ export const Main = () => `
   <div class="price">9.00€</div>
     <details class="btn"><summary>Saber más</summary>
     <p>Crujientes bastones de patata especiados con chili, salsa de queso cheddar, bacon y jalapeños.</p>
-    <p>🌶</p>
+    <p>🔥</p>
     </details>
   </div>
 </div>
@@ -305,7 +305,7 @@ export const Main = () => `
   <div class="price">9.50€</div>
     <details class="btn"><summary>Saber más</summary>
     <p>Totopos con chili casero, salsa cheddar, jalapeños, guacamole y pico de gallo.</p>
-    <p>🌶</p>
+    <p>🔥</p>
     </details>
   </div>
 </div>
@@ -331,7 +331,6 @@ export const Main = () => `
     </details>
   </div>
 </div>
-
 </div>
 </section>
 
@@ -343,67 +342,34 @@ export const Main = () => `
 
   <div class="box-container">
     <div class="box" data-aos="fade-up" data-aos-delay="150">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-1_wfu8kq.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677379/BlackBull/OreoCheeseCake_oythjn.png" alt="Imagen de tarta" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Cheescake oreo</h3>
+      <div class="price">5.00€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Descripción</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="300">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-2_pku6dh.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677381/BlackBull/TartaKinderBueno_igbmsr.png" alt="Imagen de tarta" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Tarta de Kinder Bueno</h3>
+      <div class="price">5.00€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Descripción</p>
         </details>
       </div>
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="450">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-3_vgdfyt.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677379/BlackBull/BlacBullPostreX_duhr35.png" alt="Imagen de tarta" />
       <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
-        </details>
-      </div>
-    </div>
-
-    <div class="box" data-aos="fade-up" data-aos-delay="600">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-4_ix6enk.png" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
-        </details>
-      </div>
-    </div>
-
-    <div class="box" data-aos="fade-up" data-aos-delay="750">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/product-5_v3l6pa.png" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
-        </details>
-      </div>
-    </div>
-
-    <div class="box" data-aos="fade-up" data-aos-delay="900">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494037/BlackBull/about-img_xptjxk.png" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Cheeseburguer</h3>
-      <div class="price">16.99€</div>
-        <details class="btn"><summary>Read More</summary>
-        <p>Lorem fistrum sexuarl diodeno de la pradera llevame al sircoo jarl está la cosa muy malar fistro al ataquerl. Qué dise usteer ahorarr mamaar apetecan no te digo trigo por no llamarte Rodrigor por la gloria de mi madre. A peich amatomaa tiene musho peligro pecador va usté muy cargadoo amatomaa. Ahorarr a wan la caidita caballo blanco caballo negroorl tiene musho peligro apetecan.</p>
+      <h3>Postre Black Bull X</h3>
+      <div class="price">???€</div>
+        <details class="btn"><summary>Saber más</summary>
+        <p>Pregunta en nuestro establecimiento o consulta nuestras redes sociales para descubrir el postre de la semana.</p>
         </details>
       </div>
     </div>
