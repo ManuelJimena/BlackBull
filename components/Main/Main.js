@@ -8,12 +8,10 @@ export const Main = () => `
       src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691708972/burger-baner_zf9rey_gva69o.webp"
       alt="Imagen de hamburguesa"
     />
-    <h1 data-aos="fade-up" data-aos-delay="300">Black Bull</h1>
-    <h2 data-aos="fade-up" data-aos-delay="300">
-      The gourmet burguers <span>by Javito</span>
-    </h2>
+    <h1 data-aos="fade-up" data-aos-delay="300">Burguer Bliss</h1>
+    <h2 data-aos="fade-up" data-aos-delay="300">The gourmet burguers</h2>
     <p data-aos="fade-up" data-aos-delay="450">
-      Tu cabeza quiere gimnasio... Pero tu corazón quiere hamburguesas!!!
+      Maestros de la parrilla, sabores supremos!!!
     </p>
   </div>
 </section>
@@ -167,7 +165,7 @@ export const Main = () => `
     <div class="box" data-aos="fade-up" data-aos-delay="900">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BlackBullX_noa3ko.png" alt="Imagen de hamburguesa" />
       <div class="content">
-      <h3>Black Bull X</h3>
+      <h3>Burguer Bliss X</h3>
       <div class="price">???€</div>
         <details class="btn"><summary>Saber más</summary>
         <p>Pregunta en nuestro establecimiento o consulta nuestras redes sociales para descubrir la hamburguesa del mes.</p>
@@ -199,7 +197,7 @@ export const Main = () => `
   <div class="box" data-aos="fade-up" data-aos-delay="200">
     <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/BravasBlacKBull_j4dxts_uftg0r.webp" alt="Imagen de patatas bravas" />
     <div class="content">
-    <h3>Bravas Black Bull</h3>
+    <h3>Bravas Burguer Bliss</h3>
     <div class="price">6.50€</div>
       <details class="btn"><summary>Saber más</summary>
       <p>Crujientes bastones de patata especiados con nuestra salsa brava de chipotles ahumados.</p>
@@ -256,7 +254,7 @@ export const Main = () => `
   <div class="box" data-aos="fade-up" data-aos-delay="650">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/CroquetasBlackBull_kkiokm_voluri.webp" alt="Imagen de croquetas" />
   <div class="content">
-  <h3>Croquetas Black Bull</h3>
+  <h3>Croquetas Burguer Bliss</h3>
   <div class="price">8.00€</div>
     <details class="btn"><summary>Saber más</summary>
     <p>Nuestras deliciosas croquetas caseras con queso de cabra, cebolla caramelizada y pomodoro.</p>
@@ -282,7 +280,7 @@ export const Main = () => `
   <h3>Ensalada Cabramelizada</h3>
   <div class="price">9.50€</div>
     <details class="btn"><summary>Saber más</summary>
-    <p>Mezclum de lechugas, pomodoro, pasas, nueces caramelizadas, queso de cabra caramelizado y vinagreta Black Bull.</p>
+    <p>Mezclum de lechugas, pomodoro, pasas, nueces caramelizadas, queso de cabra caramelizado y vinagreta Burguer Bliss.</p>
     </details>
   </div>
 </div>
@@ -324,7 +322,7 @@ export const Main = () => `
 <div class="box" data-aos="fade-up" data-aos-delay="950">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/ComboBlackBull_nsogmr_txrhlp.webp" alt="Imagen de combo de alimentos" />
   <div class="content">
-  <h3>Combo Black Bull</h3>
+  <h3>Combo Burguer Bliss</h3>
   <div class="price">11.00€</div>
     <details class="btn"><summary>Saber más</summary>
     <p>6 aros de cebolla, 3 cheddar crunch, 2 chicken crispy + salsa BBQ y miel&mostaza.</p>
@@ -366,7 +364,7 @@ export const Main = () => `
     <div class="box" data-aos="fade-up" data-aos-delay="300">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/BlacBullPostreX_duhr35_womuye.webp" alt="Imagen de tarta" />
       <div class="content">
-      <h3>Postre Black Bull X</h3>
+      <h3>Postre Burguer Bliss X</h3>
       <div class="price">???€</div>
         <details class="btn"><summary>Saber más</summary>
         <p>Pregunta en nuestro establecimiento o consulta nuestras redes sociales para descubrir el postre de la semana.</p>
@@ -389,7 +387,7 @@ export const Main = () => `
       <h3>Menú para dos</h3>
       <div class="price">28.00€</div>
         <details class="btn menúdos"><summary>Saber más</summary>
-        <p>2 Black Bull burguer + 1 entrante a elegir (Bravas Black Bull, Onion Rings, Cheddar Crunch, Sticks Provolone o Chicken Crispy) + Patatas + Bebida <span>(solo para domicilio o recoger en local)</span></p>
+        <p>2 Burguer Bliss + 1 entrante a elegir (Bravas Burguer Bliss, Onion Rings, Cheddar Crunch, Sticks Provolone o Chicken Crispy) + Patatas + Bebida <span>(solo para domicilio o recoger en local)</span></p>
         </details>
       </div>
     </div>
@@ -419,7 +417,7 @@ export const Main = () => `
       data-aos="fade-up"
       data-aos-delay="150"
       class="map"
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1521.4042444683428!2d-3.44156813600311!3d40.3022110135694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd423f0b0e7931d9%3A0xb8857ad35f5d55d5!2sCalle%20Carr.%20de%20Loeches%2C%207%2C%2028500%20Arganda%20del%20Rey%2C%20Madrid!5e0!3m2!1ses!2ses!4v1691433512274!5m2!1ses!2ses"
+      src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12171.300997579521!2d-3.4671684406248726!3d40.30183890116066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1691784856687!5m2!1ses!2ses"
       allowfullscreen=""
       loading="lazy" title="Google maps"
     ></iframe>
@@ -427,23 +425,23 @@ export const Main = () => `
     <div class="contactar">
       <div class="icons-container">
         <div class="icons" data-aos="fade-up" data-aos-delay="150">
-          <a href="https://www.facebook.com/people/Blackbull-Arganda/100064152609459/" target="_blank">
+          <a href="https://www.facebook.com/" target="_blank">
             <i class="fab fa-facebook-f"></i>
             <h3>facebook</h3>
           </a>
         </div>
 
         <div class="icons" data-aos="fade-up" data-aos-delay="300">
-          <a href="https://www.instagram.com/blackbull__arganda/" target="_blank">
+          <a href="https://www.instagram.com/" target="_blank">
             <i class="fab fa-instagram"></i>
             <h3>instagram</h3>
           </a>
         </div>
 
         <div class="icons" data-aos="fade-up" data-aos-delay="450">
-          <a href="tel:+34917036113">
+          <a href="tel:+34911111111">
             <i class="fas fa-phone"></i>
-            <h3>917-036-113</h3>
+            <h3>111-111-111</h3>
           </a>
         </div>
       </div>
