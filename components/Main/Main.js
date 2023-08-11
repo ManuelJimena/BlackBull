@@ -107,7 +107,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="850">
+    <div class="box" data-aos="fade-up" data-aos-delay="650">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/RibJackDaniels_c7dvtb_tb1pbm.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Ribs Jack Daniel's</h3>
@@ -118,7 +118,7 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="900">
+    <div class="box" data-aos="fade-up" data-aos-delay="700">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BlackBullX_noa3ko.png" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Burguer Bliss X</h3>
@@ -184,7 +184,7 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="650">
+  <div class="box" data-aos="fade-up" data-aos-delay="500">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/CroquetasBlackBull_kkiokm_voluri.webp" alt="Imagen de croquetas" />
   <div class="content">
   <h3>Croquetas Burguer Bliss</h3>
@@ -195,7 +195,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="700">
+<div class="box" data-aos="fade-up" data-aos-delay="600">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/ChiliCheeseFries_imjxeq_ac1r8c.webp" alt="Imagen de patatas picantes" />
   <div class="content">
   <h3>Chili&Cheese Fries</h3>
@@ -207,7 +207,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="750">
+<div class="box" data-aos="fade-up" data-aos-delay="650">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/Cabramelizada_m4elin_i7f4r8.webp" alt="Imagen de ensalada" />
   <div class="content">
   <h3>Ensalada Cabramelizada</h3>
@@ -218,7 +218,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="800">
+<div class="box" data-aos="fade-up" data-aos-delay="700">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/AveCesar_j79yiv_frctbw.webp" alt="Imagen de ensalada" />
   <div class="content">
   <h3>Ensalada Ave César</h3>
@@ -229,7 +229,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="850">
+<div class="box" data-aos="fade-up" data-aos-delay="750">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/NachosMonterrey_wif3ku_tqqqqb.webp" alt="Imagen de nachos" />
   <div class="content">
   <h3>Nachos Monterrey</h3>
@@ -241,7 +241,7 @@ export const Main = () => `
   </div>
 </div>
 
-<div class="box" data-aos="fade-up" data-aos-delay="950">
+<div class="box" data-aos="fade-up" data-aos-delay="800">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/ComboBlackBull_nsogmr_txrhlp.webp" alt="Imagen de combo de alimentos" />
   <div class="content">
   <h3>Combo Burguer Bliss</h3>
