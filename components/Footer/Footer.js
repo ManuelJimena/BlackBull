@@ -12,7 +12,7 @@ export const Footer = () => `
         <div class="disclaimer-popup" id="disclaimerPopup">
           <p><span>Aviso Legal y Descargo de Responsabilidad</span></p>
 
-          <p>Bienvenidos al sitio web de Black Bull | The gourmet burgers. Antes de explorar nuestro contenido, queremos aclarar ciertos aspectos importantes sobre el funcionamiento y la naturaleza de este sitio web. Te pedimos que leas detenidamente este aviso legal y descargo de responsabilidad.</p>
+          <p>Bienvenidos al sitio web de Burguer Bliss | The gourmet burgers. Antes de explorar nuestro contenido, queremos aclarar ciertos aspectos importantes sobre el funcionamiento y la naturaleza de este sitio web. Te pedimos que leas detenidamente este aviso legal y descargo de responsabilidad.</p>
           
           <p><span>Privacidad y Seguridad de Datos:</span></p>
           <p>Este sitio web no recopila ni almacena información personal de los visitantes, como nombres de usuarios, contraseñas o cualquier otro dato confidencial. Valoramos tu privacidad y seguridad, y queremos que te sientas tranquilo al navegar por nuestra plataforma.</p>
