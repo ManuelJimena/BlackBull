@@ -107,50 +107,6 @@ export const Main = () => `
       </div>
     </div>
 
-    <div class="box" data-aos="fade-up" data-aos-delay="650">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Mac&Cabra</h3>
-      <div class="price">14.50€</div>
-        <details class="btn"><summary>Saber más</summary>
-        <p>Disco de carne de 180 g. con queso cheddar fundido, bacon, mac&cheese al dente con mucho queso, queso de cabra caramelizado, salsa miel&mostaza y cebolla caramelizada en pan brioche.</p>
-        </details>
-      </div>
-    </div>
-
-    <div class="box" data-aos="fade-up" data-aos-delay="700">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Jucy Lucy Porn</h3>
-      <div class="price">14.50€</div>
-        <details class="btn"><summary>Saber más</summary>
-        <p>Disco de carne de 180 g. rellena de queso cheddar fundido, guacamole, cheddar fundido, bacon, cheddar crunch y salsa cheddar en pan brioche.</p>
-        </details>
-      </div>
-    </div>
-
-    <div class="box" data-aos="fade-up" data-aos-delay="750">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Boom Bourbon</h3>
-      <div class="price">14.50€</div>
-        <details class="btn"><summary>Saber más</summary>
-        <p>Disco de carne de 180 g. con mezclum, guacamole, cheddar fundido, bacon crispy, huevo, onion-rings, salsa bourbon de tennese y petazetas en pan brioche.</p>
-        </details>
-      </div>
-    </div>
-
-    <div class="box" data-aos="fade-up" data-aos-delay="800">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
-      <div class="content">
-      <h3>Crunch Cheesebacon</h3>
-      <div class="price">14.50€</div>
-        <details class="btn"><summary>Saber más</summary>
-        <p>Disco de carne de 180 g. doble de cheddar fundido, doble de bacon, confitura de bacon casera, salsa bourbon y nuestro pan crujiente de provolone fundido.</p>
-        </details>
-      </div>
-    </div>
-
     <div class="box" data-aos="fade-up" data-aos-delay="850">
       <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/RibJackDaniels_c7dvtb_tb1pbm.webp" alt="Imagen de hamburguesa" />
       <div class="content">
@@ -228,29 +184,6 @@ export const Main = () => `
     </div>
   </div>
 
-  <div class="box" data-aos="fade-up" data-aos-delay="500">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de sticks de provolone" />
-    <div class="content">
-    <h3>Sticks Provolone</h3>
-    <div class="price">7.00€</div>
-      <details class="btn"><summary>Saber más</summary>
-      <p>Bastones de queso provolone rebozados en risquetos de queso con mahonesa de bacon.</p>
-      </details>
-    </div>
-  </div>
-
-  <div class="box" data-aos="fade-up" data-aos-delay="600">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de alitas de pollo" />
-    <div class="content">
-    <h3>Buffalo Wings</h3>
-    <div class="price">8.00€</div>
-      <details class="btn"><summary>Saber más</summary>
-      <p>Crujientes alitas de pollo marinadas con salsa de habanero.</p>
-      <p>🔥🔥</p>
-      </details>
-    </div>
-  </div>
-
   <div class="box" data-aos="fade-up" data-aos-delay="650">
   <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/CroquetasBlackBull_kkiokm_voluri.webp" alt="Imagen de croquetas" />
   <div class="content">
@@ -304,17 +237,6 @@ export const Main = () => `
     <details class="btn"><summary>Saber más</summary>
     <p>Totopos con chili casero, salsa cheddar, jalapeños, guacamole y pico de gallo.</p>
     <p>🔥</p>
-    </details>
-  </div>
-</div>
-
-<div class="box" data-aos="fade-up" data-aos-delay="900">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de quesadillas" />
-  <div class="content">
-  <h3>Ribsadilla</h3>
-  <div class="price">10.00€</div>
-    <details class="btn"><summary>Saber más</summary>
-    <p>2 quesadillas de cheddar fundido con carne de costilla de cerdo iberico con salsa Jack Daniel's.</p>
     </details>
   </div>
 </div>
