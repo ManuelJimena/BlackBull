@@ -15,5 +15,5 @@ export const Header = () => `
 
       <a href="#" class="no-action-link"></a>
 
-      <a href="#home" class="logo"><img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494037/BlackBull/logo_cmpk7e.png" alt="Imagen del logo" /></a>
+      <a href="#home" class="logo"><img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/logo_cmpk7e_ml0sz7.webp" alt="Imagen del logo" /></a>
 `;

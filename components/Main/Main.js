@@ -38,13 +38,13 @@ export const Main = () => `
 
 <section class="menu" id="menu">
   <div class="heading">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/title-img_bct59n.png" alt="Imagen de adorno" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
     <h3>burguers</h3>
   </div>
 
   <div class="box-container">
     <div class="box" data-aos="fade-up" data-aos-delay="100">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/Mac_Cheese_iq5ueg.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/Mac_Cheese_iq5ueg_otg244.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Mac&Cheese</h3>
       <div class="price">10.00€</div>
@@ -55,7 +55,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="200">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/JucyLucy_japzxe.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/JucyLucy_japzxe_kmhxml.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Jucy Lucy</h3>
       <div class="price">10.00€</div>
@@ -66,7 +66,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="300">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666504/BlackBull/BeefBourbon_zfonke.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/BeefBourbon_zfonke_ukk8x5.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Beef Bourbon</h3>
       <div class="price">10.50€</div>
@@ -77,7 +77,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="400">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/CheesePorn_pmggdq.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710242/BlackBull/CheesePorn_pmggdq_zdd5lz.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Cheese Porn</h3>
       <div class="price">10.50€</div>
@@ -88,7 +88,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="500">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/BoomBBQ_lbbsuq.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/BoomBBQ_lbbsuq_arsquc.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Boom BBQ</h3>
       <div class="price">11.00€</div>
@@ -99,7 +99,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="600">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691666505/BlackBull/CabraLoka_rrdzhv.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/CabraLoka_rrdzhv_wzsprl.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Cabra Loka</h3>
       <div class="price">11.00€</div>
@@ -110,7 +110,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="650">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Mac&Cabra</h3>
       <div class="price">14.50€</div>
@@ -121,7 +121,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="700">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Jucy Lucy Porn</h3>
       <div class="price">14.50€</div>
@@ -132,7 +132,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="750">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Boom Bourbon</h3>
       <div class="price">14.50€</div>
@@ -143,7 +143,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="800">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Crunch Cheesebacon</h3>
       <div class="price">14.50€</div>
@@ -154,7 +154,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="850">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691654066/BlackBull/RibJackDaniels_c7dvtb.png" alt="Imagen de hamburguesa" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/RibJackDaniels_c7dvtb_tb1pbm.webp" alt="Imagen de hamburguesa" />
       <div class="content">
       <h3>Ribs Jack Daniel's</h3>
       <div class="price">14.50€</div>
@@ -180,13 +180,13 @@ export const Main = () => `
 
 <section class="entrantes" id="entrantes">
   <div class="heading">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/title-img_bct59n.png" alt="Imagen de adorno" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
     <h3>entrantes</h3>
   </div>
 
   <div class="box-container">
   <div class="box" data-aos="fade-up" data-aos-delay="100">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/OnionRings_vafpw0.png" alt="Imagen de aros de cebolla" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/OnionRings_vafpw0_ndgpe9.webp" alt="Imagen de aros de cebolla" />
     <div class="content">
     <h3>Onion Rings</h3>
     <div class="price">6.50€</div>
@@ -197,7 +197,7 @@ export const Main = () => `
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="200">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/BravasBlacKBull_j4dxts.png" alt="Imagen de patatas bravas" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/BravasBlacKBull_j4dxts_uftg0r.webp" alt="Imagen de patatas bravas" />
     <div class="content">
     <h3>Bravas Black Bull</h3>
     <div class="price">6.50€</div>
@@ -209,7 +209,7 @@ export const Main = () => `
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="300">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/CheedarCrunch_jmfgpz.png" alt="Imagen de queso cheddar rebozado" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710242/BlackBull/CheedarCrunch_jmfgpz_f9yrwx.webp" alt="Imagen de queso cheddar rebozado" />
     <div class="content">
     <h3>Cheddar Crunch</h3>
     <div class="price">7.00€</div>
@@ -220,7 +220,7 @@ export const Main = () => `
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="400">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/ChikenCrispy_bsfr4y.png" alt="Imagen de pollo rebozado" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/ChikenCrispy_bsfr4y_o4mp0y.webp" alt="Imagen de pollo rebozado" />
     <div class="content">
     <h3>Chicken Crispy</h3>
     <div class="price">7.00€</div>
@@ -231,7 +231,7 @@ export const Main = () => `
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="500">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de sticks de provolone" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de sticks de provolone" />
     <div class="content">
     <h3>Sticks Provolone</h3>
     <div class="price">7.00€</div>
@@ -242,7 +242,7 @@ export const Main = () => `
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="600">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de alitas de pollo" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de alitas de pollo" />
     <div class="content">
     <h3>Buffalo Wings</h3>
     <div class="price">8.00€</div>
@@ -254,7 +254,7 @@ export const Main = () => `
   </div>
 
   <div class="box" data-aos="fade-up" data-aos-delay="650">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677324/BlackBull/CroquetasBlackBull_kkiokm.png" alt="Imagen de croquetas" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/CroquetasBlackBull_kkiokm_voluri.webp" alt="Imagen de croquetas" />
   <div class="content">
   <h3>Croquetas Black Bull</h3>
   <div class="price">8.00€</div>
@@ -265,7 +265,7 @@ export const Main = () => `
 </div>
 
 <div class="box" data-aos="fade-up" data-aos-delay="700">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/ChiliCheeseFries_imjxeq.png" alt="Imagen de patatas picantes" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/ChiliCheeseFries_imjxeq_ac1r8c.webp" alt="Imagen de patatas picantes" />
   <div class="content">
   <h3>Chili&Cheese Fries</h3>
   <div class="price">9.00€</div>
@@ -277,7 +277,7 @@ export const Main = () => `
 </div>
 
 <div class="box" data-aos="fade-up" data-aos-delay="750">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/Cabramelizada_m4elin.png" alt="Imagen de ensalada" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/Cabramelizada_m4elin_i7f4r8.webp" alt="Imagen de ensalada" />
   <div class="content">
   <h3>Ensalada Cabramelizada</h3>
   <div class="price">9.50€</div>
@@ -288,7 +288,7 @@ export const Main = () => `
 </div>
 
 <div class="box" data-aos="fade-up" data-aos-delay="800">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677322/BlackBull/AveCesar_j79yiv.png" alt="Imagen de ensalada" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/AveCesar_j79yiv_frctbw.webp" alt="Imagen de ensalada" />
   <div class="content">
   <h3>Ensalada Ave César</h3>
   <div class="price">9.50€</div>
@@ -299,7 +299,7 @@ export const Main = () => `
 </div>
 
 <div class="box" data-aos="fade-up" data-aos-delay="850">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/NachosMonterrey_wif3ku.png" alt="Imagen de nachos" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/NachosMonterrey_wif3ku_tqqqqb.webp" alt="Imagen de nachos" />
   <div class="content">
   <h3>Nachos Monterrey</h3>
   <div class="price">9.50€</div>
@@ -311,7 +311,7 @@ export const Main = () => `
 </div>
 
 <div class="box" data-aos="fade-up" data-aos-delay="900">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de quesadillas" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de quesadillas" />
   <div class="content">
   <h3>Ribsadilla</h3>
   <div class="price">10.00€</div>
@@ -322,7 +322,7 @@ export const Main = () => `
 </div>
 
 <div class="box" data-aos="fade-up" data-aos-delay="950">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677323/BlackBull/ComboBlackBull_nsogmr.png" alt="Imagen de combo de alimentos" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/ComboBlackBull_nsogmr_txrhlp.webp" alt="Imagen de combo de alimentos" />
   <div class="content">
   <h3>Combo Black Bull</h3>
   <div class="price">11.00€</div>
@@ -336,13 +336,13 @@ export const Main = () => `
 
 <section class="postres" id="postres">
   <div class="heading">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/title-img_bct59n.png" alt="Imagen de adorno" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
     <h3>postres</h3>
   </div>
 
   <div class="box-container">
     <div class="box" data-aos="fade-up" data-aos-delay="100">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677379/BlackBull/OreoCheeseCake_oythjn.png" alt="Imagen de tarta" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/OreoCheeseCake_oythjn_qy0wyr.webp" alt="Imagen de tarta" />
       <div class="content">
       <h3>Cheescake oreo</h3>
       <div class="price">5.00€</div>
@@ -353,7 +353,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="200">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677381/BlackBull/TartaKinderBueno_igbmsr.png" alt="Imagen de tarta" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/TartaKinderBueno_igbmsr_lnrfbn.webp" alt="Imagen de tarta" />
       <div class="content">
       <h3>Tarta de Kinder Bueno</h3>
       <div class="price">5.00€</div>
@@ -364,7 +364,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="300">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691677379/BlackBull/BlacBullPostreX_duhr35.png" alt="Imagen de tarta" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710241/BlackBull/BlacBullPostreX_duhr35_womuye.webp" alt="Imagen de tarta" />
       <div class="content">
       <h3>Postre Black Bull X</h3>
       <div class="price">???€</div>
@@ -378,13 +378,13 @@ export const Main = () => `
 
 <section class="menús" id="menús">
   <div class="heading">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/title-img_bct59n.png" alt="Imagen de adorno" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
     <h3>menús</h3>
   </div>
 
   <div class="box-container">
     <div class="box" data-aos="fade-up" data-aos-delay="100">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de menú" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de menú" />
       <div class="content">
       <h3>Menú para dos</h3>
       <div class="price">28.00€</div>
@@ -395,7 +395,7 @@ export const Main = () => `
     </div>
 
     <div class="box" data-aos="fade-up" data-aos-delay="200">
-      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691673378/BlackBull/FaltaImagen_vakih7.png" alt="Imagen de menú" />
+      <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710239/BlackBull/FaltaImagen_vakih7_lmryfy.webp" alt="Imagen de menú" />
       <div class="content">
       <h3>Menú infantil</h3>
       <div class="price">6.50€</div>
@@ -410,7 +410,7 @@ export const Main = () => `
 
 <section class="contact" id="contact">
   <div class="heading">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691494036/BlackBull/title-img_bct59n.png" alt="Imagen de adorno" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
     <h3>contacto</h3>
   </div>
 
