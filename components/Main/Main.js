@@ -5,7 +5,7 @@ export const Main = () => `
     <img
       data-aos="fade-up"
       data-aos-delay="150"
-      src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691708972/burger-baner_zf9rey_gva69o.webp"
+      src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1692696303/BlackBull/slider1_lnes7g.webp"
       alt="Imagen de hamburguesa"
     />
     <h1 data-aos="fade-up" data-aos-delay="300">Burguer Bliss</h1>
@@ -36,7 +36,7 @@ export const Main = () => `
 
 <section class="menu" id="menu">
   <div class="heading">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1692697559/BlackBull/title-img_bct59n_v1j2t9_yu9jvl.webp" alt="Imagen de adorno" />
     <h3>burguers</h3>
   </div>
 
@@ -134,7 +134,7 @@ export const Main = () => `
 
 <section class="entrantes" id="entrantes">
   <div class="heading">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1692697559/BlackBull/title-img_bct59n_v1j2t9_yu9jvl.webp" alt="Imagen de adorno" />
     <h3>entrantes</h3>
   </div>
 
@@ -256,7 +256,7 @@ export const Main = () => `
 
 <section class="postres" id="postres">
   <div class="heading">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1692697559/BlackBull/title-img_bct59n_v1j2t9_yu9jvl.webp" alt="Imagen de adorno" />
     <h3>postres</h3>
   </div>
 
@@ -298,7 +298,7 @@ export const Main = () => `
 
 <section class="menús" id="menús">
   <div class="heading">
-  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
+  <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1692697559/BlackBull/title-img_bct59n_v1j2t9_yu9jvl.webp" alt="Imagen de adorno" />
     <h3>menús</h3>
   </div>
 
@@ -330,7 +330,7 @@ export const Main = () => `
 
 <section class="contact" id="contact">
   <div class="heading">
-    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1691710240/BlackBull/title-img_bct59n_v1j2t9.webp" alt="Imagen de adorno" />
+    <img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1692697559/BlackBull/title-img_bct59n_v1j2t9_yu9jvl.webp" alt="Imagen de adorno" />
     <h3>contacto</h3>
   </div>
 
